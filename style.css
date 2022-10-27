@@ -1,0 +1,17 @@
+#map {
+    min-width: 600px; 
+    min-height: 600px
+}
+
+textarea#textdata {
+    min-height: 200px;
+}
+
+.themed-grid-col {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(86, 61, 124, .15);
+    border: 1px solid rgba(86, 61, 124, .2);
+}
+  
+  
