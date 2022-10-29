@@ -1,4 +1,3 @@
-
 <?
 foreach(array_diff(scandir("classes"), [".", ".."]) as $file)
 require_once "classes/$file";
